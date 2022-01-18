@@ -11,8 +11,10 @@
 
 ### Day 1: 
 
-**Today's Progress**: 
-**Thoughts** 
+**Today's Progress**: Finished the odin project assignment and started working on a randomized color picker using the colormind's API
+**Thoughts** It's good to have a randomized color picker which will be helpful for future dev projects.
 
-**Link(s) to work**
+**Link(s) to Project Problem**:https://www.codementor.io/projects/web/random-color-palette-generator-web-app-ccdljvurh6
+
+**Link(s) to work** :will post once i upload it to github
 1. 
