@@ -9,12 +9,29 @@
 
 **Link to work:** https://codepen.io/kevinsunil/pen/QWqJgZv
 
-### Day 1: 
+### Day 1: 18th January 2022 
 
-**Today's Progress**: Finished the odin project assignment and started working on a randomized color picker using the colormind's API
-**Thoughts** It's good to have a randomized color picker which will be helpful for future dev projects.
+**Today's Progress**: Finished the odin project assignment and started working on a randomized color picker 
+**Thoughts:** It's good to have a randomized color picker which will be helpful for future dev projects.
 
 **Link(s) to Project Problem**:https://www.codementor.io/projects/web/random-color-palette-generator-web-app-ccdljvurh6
 
-**Link(s) to work** :will post once i upload it to github
-1. 
+**Link(s) to work** :https://github.com/kevinsunil/colourpalette
+
+### Day 2: 19th January 2022 
+
+**Today's Progress**: finished  the html and css for the project.
+**Thoughts:** need to work a bit more on grid
+
+**Link(s) to Project Problem:**https://www.codementor.io/projects/web/random-color-palette-generator-web-app-ccdljvurh6
+
+**Link(s) to work:** https://github.com/kevinsunil/colourpalette
+ 
+### Day 3: 20th January 2022 
+
+**Today's Progress**: Finished the  randomized color picker.
+**Thoughts:** got to learn a lot of stuff from this project 
+
+**Link(s) to Project Problem:**https://www.codementor.io/projects/web/random-color-palette-generator-web-app-ccdljvurh6
+
+**Link(s) to work:** https://github.com/kevinsunil/colourpalette
