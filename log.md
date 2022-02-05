@@ -60,3 +60,10 @@ So after this i met with a small accident and couldn't continue due to my medica
 **Thoughts:** Looking Forward to finishing this time
 
 **Link(s) to work:** https://github.com/kevinsunil/exercise-tracker
+
+### Day 1: 5th February 2022
+
+**Today's Progress**:built the routes both for schema and front end , started working oon the front end , finished building the navbar and started working on connecting the front end to the  database
+**Thoughts:** Need to read the react router dom documentation later
+
+**Link(s) to work:** https://github.com/kevinsunil/exercise-tracker
