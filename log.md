@@ -67,3 +67,10 @@ So after this i met with a small accident and couldn't continue due to my medica
 **Thoughts:** Need to read the react router dom documentation later
 
 **Link(s) to work:** https://github.com/kevinsunil/exercise-tracker
+
+### Day 2: 6th February 2022
+
+**Today's Progress**:Finished two pages one is to add the exercise log and the other page is to add new user
+**Thoughts:** Didn't do much today but tomorrow this project will be done hopefully
+
+**Link(s) to work:** https://github.com/kevinsunil/exercise-tracker
