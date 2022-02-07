@@ -74,3 +74,9 @@ So after this i met with a small accident and couldn't continue due to my medica
 **Thoughts:** Didn't do much today but tomorrow this project will be done hopefully
 
 **Link(s) to work:** https://github.com/kevinsunil/exercise-tracker
+
+### Day 3: 7th February 2022
+
+**Today's Progress**:Finished the application 
+**Thoughts:** It took more time then expected but its done
+**Link(s) to work:** https://github.com/kevinsunil/exercise-tracker
