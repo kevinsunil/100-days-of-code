@@ -85,4 +85,13 @@ So after this i met with a small accident and couldn't continue due to my medica
 
 **Today's Progress**:Started working on a simple blog site, installed the dependencies and started working on the routes and frontend.
 **Thoughts:** It's something which will come handy in a later project which I have in mind
+
+**Link(s) to work:** https://github.com/kevinsunil/blogsite
+
+
+### Day 4: 8th February 2022
+
+**Today's Progress**:Started working on schema almost finished with the project
+**Thoughts:** 
+
 **Link(s) to work:** https://github.com/kevinsunil/blogsite
