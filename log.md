@@ -100,7 +100,7 @@ So after this i met with a small accident and couldn't continue due to my medica
 **Link(s) to work:** https://github.com/kevinsunil/blogsite
 
 
-### Day 4: 8th February 2022
+### Day 4: 9th February 2022
 
 **Today's Progress**:Started working on schema almost finished with the project
 
@@ -108,7 +108,7 @@ So after this i met with a small accident and couldn't continue due to my medica
 
 **Link(s) to work:** https://github.com/kevinsunil/blogsite
 
-### Day 5: 9th February 2022
+### Day 5: 10th February 2022
 
 **Today's Progress**:Finished working on the app
 
