@@ -115,3 +115,12 @@ So after this i met with a small accident and couldn't continue due to my medica
 **Thoughts:** 
 
 **Link(s) to work:** https://github.com/kevinsunil/blogsite
+
+### Day 6: 11th February 2022
+
+**Today's Progress**:Started with a new travel advisor app, installed all the dependencies and finished the navbar of it 
+
+**Thoughts:** this one would involve me using and manipulating apis which can be quite useful for future projects
+
+**Link(s) to work:** https://github.com/kevinsunil/traveladvisor
+
